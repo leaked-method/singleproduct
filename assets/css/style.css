@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+body {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.form-control {
+    border-top-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 17px;
+    border-bottom-left-radius: 18px;
+}
+
+.fstimg {
+    background: url("../img/_Blue%20Beach%20Themed%20Back%20to%20School%20Meet%20The%20Teacher%20Presentation.webp") center / cover no-repeat;
+    height: 400px;
+}
+
+.fstimgd2 {
+    height: 300px;
+}
+
+.fstordbtn {
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+
+.priceimg {
+    width: 300px;
+    height: 300px;
+    background: url("../img/Yellow%203D%20Give%20Away%20Instagram%20Post.webp") center / cover no-repeat;
+    border-radius: 20px;
+}
+
+.ordbtn2 {
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+
+.ordredit {
+    cursor: pointer;
+}
+
+.paybtn {
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
